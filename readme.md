@@ -1,0 +1,1 @@
+I have given the streamlit code which can provide you with the display of my project.
